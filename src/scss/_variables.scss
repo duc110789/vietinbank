@@ -1,0 +1,11 @@
+// Variable overrides
+.sidebar .nav-link.active {
+  background-color: #28bae6!important;
+}
+$sidebar-width: 250px;
+.app-header .navbar-toggler {
+  outline: none !important;
+}
+.sidebar .nav-dropdown-items .nav-item {
+  padding: 0!important;
+}

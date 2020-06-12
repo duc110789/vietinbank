@@ -1,0 +1,5 @@
+export const ADD_NEW_ROLES = 'ADD_NEW_ROLES';
+
+export const ADD_NEW_ROLES_SUCCESS = 'ADD_NEW_ROLES_SUCCESS';
+
+export const ADD_NEW_ROLES_FAIL = 'ADD_NEW_ROLES_FAIL';

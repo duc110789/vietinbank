@@ -1,0 +1,5 @@
+export const EDIT_ROLES = 'EDIT_ROLES';
+
+export const EDIT_ROLES_SUCCESS = 'EDIT_ROLES_SUCCESS';
+
+export const EDIT_ROLES_FAIL = 'EDIT_ROLES_FAIL';
